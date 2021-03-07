@@ -22,7 +22,7 @@ Estudo sobre principios S.O.L.I.D em Python
 
 - Clientes não devem ser forçados a depender de métodos que não usam. Ou seja, Múltiplas interfaces específicas são melhores do que uma interface com múltiplas definições.
 
-### Dependency Inversion Principle
+### Dependency Inversion Principle (Princípio da inversão de dependência)
 - Classes de alto nível não deveriam depender de classesde baixo nível. Ambas devem depender de abstrações. As abstrações não devem depender de detalhes. Detalhes
 devem depender de abstrações.
 
