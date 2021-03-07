@@ -1,6 +1,6 @@
 # SOLID
 
-Estudo sobre principios SOLID em Python
+Estudo sobre principios S.O.L.I.D em Python
 
 
 ### Single Responsibility Principle (Princípio da responsabilidade única)
