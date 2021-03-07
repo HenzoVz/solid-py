@@ -5,8 +5,11 @@ from solid.repo.reports_generator import ReportGenerator
 from solid.services.client import GithubClient
 from solid.repo.parser import RepoParser
 
+from solid.models.member import Member
+from solid.models.manager_lsp import Manager
+
 if __name__ == '__main__':
-    username = 'HenzoVz'
+    username = 'murilohenzo'
     response = GithubClient.get_repositorires_by_user(username)
 
     if response['status'] == 200:
@@ -20,3 +23,7 @@ if __name__ == '__main__':
         print(html_report)
     else:
         print(response['body'])
+
+    member = Member("johndoe", "johndoe@example.com")
+
+    print(member.members())

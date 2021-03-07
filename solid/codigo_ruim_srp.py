@@ -2,6 +2,7 @@ import requests
 import json
 
 
+# a classe não respeita o principio de responsabilidade unica, pois possui mais de uma responsabilidade
 class ListRepositories():
     API_BASE_URL = 'http://api.github.com'
 
