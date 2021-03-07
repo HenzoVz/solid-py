@@ -26,5 +26,5 @@ Estudo sobre principios SOLID em Python
 - Classes de alto nível não deveriam depender de classesde baixo nível. Ambas devem depender de abstrações. As abstrações não devem depender de detalhes. Detalhes
 devem depender de abstrações.
 
-* Classes de baixo nível implementam operações básicas tais como trabalhar com um disco, transferindo dados pela rede, conectar-se a uma base de dados, etc.
-* Classes de alto nível contém lógica de negócio complexa que direcionam classes de baixo nível para fazerem algo.
+* **Classes de baixo nível** implementam operações básicas tais como trabalhar com um disco, transferindo dados pela rede, conectar-se a uma base de dados, etc.
+* **Classes de alto nível** contém lógica de negócio complexa que direcionam classes de baixo nível para fazerem algo.
