@@ -1,0 +1,32 @@
+## REPOS 
+
+**ID:** 319979360 **name:** 50-projeto-em-50-dias **stars:** 0
+ **ID:** 332316136 **name:** algorithms **stars:** 0
+ **ID:** 342968729 **name:** AmazingGraph **stars:** 0
+ **ID:** 235682148 **name:** analysis-amazon-fires **stars:** 0
+ **ID:** 223651379 **name:** api-adonis-ecommerce **stars:** 0
+ **ID:** 314293831 **name:** ApiFakeJsonServer **stars:** 0
+ **ID:** 311657532 **name:** AppGoBarber **stars:** 0
+ **ID:** 342853054 **name:** biblioteca-backend **stars:** 0
+ **ID:** 339409026 **name:** bread-to-go-backend **stars:** 1
+ **ID:** 240003486 **name:** calculadora-imc-flutter **stars:** 0
+ **ID:** 239562005 **name:** churn-analysis-funcionarios **stars:** 0
+ **ID:** 201465270 **name:** classification-digit **stars:** 0
+ **ID:** 267688126 **name:** cnn-pytorch **stars:** 0
+ **ID:** 262463894 **name:** covid-news **stars:** 0
+ **ID:** 336307268 **name:** desafio09-GoStack **stars:** 0
+ **ID:** 339395485 **name:** desafio10-GoStack **stars:** 0
+ **ID:** 339403291 **name:** desafio11_gostack **stars:** 0
+ **ID:** 208696346 **name:** deterministic-finite-automata-state-pattern **stars:** 2
+ **ID:** 280464477 **name:** dfa **stars:** 1
+ **ID:** 237850989 **name:** django-api-with-docker **stars:** 1
+ **ID:** 338065917 **name:** ds-introduction **stars:** 0
+ **ID:** 202810145 **name:** ecommerce-react **stars:** 2
+ **ID:** 334989754 **name:** Estatistica **stars:** 0
+ **ID:** 190675893 **name:** flask-api-for-ml-model **stars:** 0
+ **ID:** 237630617 **name:** flask-api-with-docker-db **stars:** 0
+ **ID:** 237512145 **name:** flask-restful-app **stars:** 0
+ **ID:** 268948527 **name:** fluxo-de-caixa **stars:** 0
+ **ID:** 172278508 **name:** fuzzy **stars:** 1
+ **ID:** 267962073 **name:** genetic-algorithm-for-tsp **stars:** 1
+ **ID:** 297649905 **name:** Github-Explorer **stars:** 0
